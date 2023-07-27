@@ -4,6 +4,8 @@ Hosted Link : https://mansi2020.github.io/html_assign1/
 screenshot of HTML code.
 ![Screenshot (108)](https://github.com/mansi2020/html_assign1/assets/57188328/e5e3c93c-8c0b-4590-b1d2-8efe33aeedc7)
 ![Screenshot (109)](https://github.com/mansi2020/html_assign1/assets/57188328/70d9d4c2-4d07-4664-96fb-acad329bcff8)
+
+
 Tag Description:
 <h1>,<h2>,<h3> = tags are used to define HTML headings
 <p></p> = use for create paragraph
